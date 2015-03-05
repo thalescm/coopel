@@ -18,6 +18,12 @@ https://docs.npmjs.com/getting-started/installing-node
 Install MongoDB
 http://docs.mongodb.org/manual/installation/
 
+Open Terminal
+
+run `mongod`  
+
+In another tab,
+
 run
 `npm install -g bower`
 
