@@ -15,6 +15,9 @@ http://nodejs.org/download/
 Instal NPM
 https://docs.npmjs.com/getting-started/installing-node
 
+Install MongoDB
+http://docs.mongodb.org/manual/installation/
+
 run
 `npm install -g bower`
 
