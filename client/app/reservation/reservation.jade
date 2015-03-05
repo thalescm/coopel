@@ -1,0 +1,12 @@
+div(ng-include='"components/navbar/navbar.html"')
+
+.col-md-12
+    | Este é o quarto {{room.number}}
+
+    
+    | {{room.is_in_use}}
+    | {{room.is_reserved}}
+    | {{!room.is_in_use}}
+    br
+    .btn
+      | Fazer reserva
